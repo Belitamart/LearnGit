@@ -1,0 +1,9 @@
+body {
+    background-image: url(Nuclear.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
+p {
+    color: white;
+    font-size: 25px;
+}
